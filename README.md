@@ -1,12 +1,12 @@
 # [ZarvenSeite](https://zarven.net)
-STATISCH!
+
 <img src="images/logo.jpg" width="600px"/>
 
-
+STATISCH!
 ## TODOS
 
-- MongoDB API implementieren
-- Wenn API Implementiert - Account search und verwaltung!
+~~- MongoDB API implementieren~~
+~~- Wenn API Implementiert - Account search und verwaltung!~~
 
 # Ben: Bitte in NS eintragen (Nameserver):
 ```leonard.ns.cloudflare.com```
