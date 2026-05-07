@@ -1,7 +1,6 @@
 # [ZarvenSeite](https://zarven.net)
-
 STATISCH!
-
+<img src="images/logo.jpg" width="600px"/>
 
 
 ## TODOS
