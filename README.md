@@ -21,3 +21,8 @@ fortaleza.ns.porkbun.com
 maceio.ns.porkbun.com
 
 salvador.ns.porkbun.com
+
+
+#  Update:
+
+```<meta name="robots" content="noindex">```
