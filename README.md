@@ -8,11 +8,11 @@ STATISCH!
 ~~- MongoDB API implementieren~~
 ~~- Wenn API Implementiert - Account search und verwaltung!~~
 
-# Ben: Bitte in NS eintragen (Nameserver):
+# TODO: In NS eintragen (Nameserver):
 ```leonard.ns.cloudflare.com```
 ```reza.ns.cloudflare.com```
 
-## Falls du das noch eingetragen hast, dann bitte entfernen:
+## Falls das noch eingetragen ist, dann bitte entfernen:
 
 curitiba.ns.porkbun.com
 
